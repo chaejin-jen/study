@@ -27,14 +27,14 @@
 - RaspberryPi3
     + 기간 : 2020년 10월 12일 ~ 10월 26일
     + 교재 : 라즈베리파이 3을 이용한 사물인터넷 기초부터 실무까지
-    + 프로젝트 : 링크걸어야함
+    + 프로젝트 : Raspbery Pi 3 음성인식 블루투스 스피커, 01. Smart_Pengsoo https://github.com/chaejin-jen/project
     + 노트정리 : https://1drv.ms/u/s!AsTDOfJqLRJtpyC99f1DfiunBAak (옮길 예정)
 
 
 - Android Studio
     + 기간 : 2020년 10월 26일 ~ 1월 일
     + 교재 : 하루 만에 배우는 안드로이드 앱 만들기(2판), 깡샘의 안드로이드 프로그래밍
-    + 프로젝트 : 
+    + 프로젝트 : Raspbery Pi 3 RC카 무선조종 및 트래킹 , 02. RaspPi_WiFi_RC_Car https://github.com/chaejin-jen/project
     + 노트정리 : https://1drv.ms/u/s!AsTDOfJqLRJtqEzVAH3-BdIWR3QK (옮길 예정)
  
  
@@ -42,7 +42,7 @@
     + 기간 : 2020년 11월 26일 ~
     + 교재 : 머신 러닝 딥 러닝에 필요한 기초 수학 with 파이썬  
              머신 러닝 교과서 with 파이썬 사이킷런 텐서플로
-    + 미니프로젝트 : Yolo, 링크걸어야함
+    + 프로젝트 : Yolo v3 를 활용한 보행자신호 인식, 02. RaspPi_WiFi_RC_Car https://github.com/chaejin-jen/project
     + 노트정리 : https://1drv.ms/u/s!AsTDOfJqLRJtqk7-DpSBcKo8RTIw (옮길 예정)
     
     
