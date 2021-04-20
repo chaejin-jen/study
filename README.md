@@ -81,7 +81,6 @@
 
 ## 책
 
-## 기타
 ### 밑바닥부터 시작하는 딥러닝 3
 1. [개요](https://chaejin-jen.github.io/2021/03/15/DeepLearning/Mit3/mitdeep0/)
 2. [1고지](https://chaejin-jen.github.io/2021/03/18/DeepLearning/Mit3/mitdeep1/)
